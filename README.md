@@ -46,7 +46,7 @@ This application provides a simple and intuitive UI for the Win32 Content Prep T
 ### Steps
 
 1. Download the latest release:
-    Latest Release: [IWAU-QuickPackUtility 1.0](https://github.com/OscarFreij/IWAU-QuickPackUtility/releases/tag/v1.0)
+    Latest Release: [IWAU-QuickPackUtility Latest](https://github.com/OscarFreij/IWAU-QuickPackUtility/releases/latest)
 
 2. Un-Zip the zip file
 
