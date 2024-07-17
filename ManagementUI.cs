@@ -85,7 +85,7 @@ namespace IWAU_QuickPackUtility
                 StartInfo = new ProcessStartInfo
                 {
                     FileName = IWAUPath,
-                    Arguments = $"-c {this.setupDirectoryTextBox.Text} -s {setupFilePath} -o {this.outputDirectoryTextBox.Text} -q",
+                    Arguments = $"-c \"{this.setupDirectoryTextBox.Text}\" -s \"{setupFilePath}\" -o \"{this.outputDirectoryTextBox.Text}\" -q",
                     UseShellExecute = false,
                     RedirectStandardOutput = true,
                     CreateNoWindow = true
